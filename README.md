@@ -12,6 +12,13 @@ var x=10;
 var y=20;
 z=x+y;
 document.write(z);
+var x=10;
+var y=20;
+if(x>y){
+document.write("true");
+}else{
+document.write("false");
+}
 </script>
 </head>
 </body>
